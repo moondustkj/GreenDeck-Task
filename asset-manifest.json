@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Greendeck-Task/static/css/main.4a7f8222.chunk.css",
+    "main.js": "/Greendeck-Task/static/js/main.647052dd.chunk.js",
+    "main.js.map": "/Greendeck-Task/static/js/main.647052dd.chunk.js.map",
+    "runtime-main.js": "/Greendeck-Task/static/js/runtime-main.7fa04de1.js",
+    "runtime-main.js.map": "/Greendeck-Task/static/js/runtime-main.7fa04de1.js.map",
+    "static/js/2.567a93d8.chunk.js": "/Greendeck-Task/static/js/2.567a93d8.chunk.js",
+    "static/js/2.567a93d8.chunk.js.map": "/Greendeck-Task/static/js/2.567a93d8.chunk.js.map",
+    "index.html": "/Greendeck-Task/index.html",
+    "precache-manifest.54cc14b21a4dc04de9f90af3af21acb4.js": "/Greendeck-Task/precache-manifest.54cc14b21a4dc04de9f90af3af21acb4.js",
+    "service-worker.js": "/Greendeck-Task/service-worker.js",
+    "static/css/main.4a7f8222.chunk.css.map": "/Greendeck-Task/static/css/main.4a7f8222.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fa04de1.js",
+    "static/js/2.567a93d8.chunk.js",
+    "static/css/main.4a7f8222.chunk.css",
+    "static/js/main.647052dd.chunk.js"
+  ]
+}
